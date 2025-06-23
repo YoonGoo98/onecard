@@ -66,22 +66,17 @@
 
 # 실행결과 및 피드백
 #### 1. 실행
-
-
-
+![스크린샷 2025-06-23 163223](https://github.com/user-attachments/assets/fdebf8b9-67e0-40ee-99cd-93cce77a633a)
 #### 2. 낼 수 있는 카드 선택
+![스크린샷 2025-06-23 163253](https://github.com/user-attachments/assets/10c7e60e-4b2a-487b-8b6b-e9b8a8ac4df3)
+#### 3. 낼 수 있는 카드가 없는 경우 1장의 카드를 가져감
+![스크린샷 2025-06-23 163415](https://github.com/user-attachments/assets/4ea3db0f-dd8a-4bc7-8b9d-9b3604c618fb)
+#### 4. 덱이 빈 경우  더미를 섞어 새 덱으로 교체
+![스크린샷 2025-06-23 163436](https://github.com/user-attachments/assets/1e09c72f-5a94-40df-842e-3a95efd70676)
+#### 5. 게임 종료 시
+![스크린샷 2025-06-23 163508](https://github.com/user-attachments/assets/e33a89a9-abd3-4143-82e5-f377fee7071e)
 
-
-
-#### 3. 덱이 없는 경우 셔플 진행
-
-
-
-
-#### 4. 게임 종료 시
-
-
-
+#### 피드백
 
 프로젝트를 완성하고 직접 실행해보니, 게임 전체가 처음부터 끝까지 정상적으로 작동한다는 점에서 큰 성취감을 느꼈습니다. 플레이어 간의 턴 전환, 카드 낼 수 있는 조건 판별, 공격 카드에 대한 데미지 처리 등 핵심 로직들이 안정적으로 돌아가는 것을 확인할 수 있었습니다.
 
